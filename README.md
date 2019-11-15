@@ -1,4 +1,7 @@
-# homework-python
+# homework-python-作业4
+
+* 智能对话机器人
+
 > demo 演示：  
 >      输入 hello   ->  输出 Well,hello  
 >      输入 what are you  -> 输出 I'm a bot, silly!  
@@ -9,3 +12,4 @@
 > 会回答 Your hobby is pingpang.  
 >
 > 退出程序输入 exit  
+
